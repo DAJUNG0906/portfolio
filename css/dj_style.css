@@ -197,6 +197,7 @@ img.mfp-img {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content:space-between;
+    padding-right: 100px;
 }
 #web2 .container .web_txt .skill2 .s2 {
     color:#333;
@@ -409,7 +410,26 @@ img.mfp-img {
     #web2 .container .web_txt .btn_common a{
         border-radius: 40px;
         padding: 4px 5px;
-        margin-right: 5px;
+        margin-right: 10px;
         font-size: 0.9rem;
+    }
+    #web2 .container .web_txt .tit1 {
+        color: #8a49a8;
+        padding-bottom: 20px;
+        padding-top: 50px;
+    }
+    #web2 .container .web_txt h3 {
+        font-size: 2.3rem;
+        padding-bottom: 50px;
+    }
+    #web2 .container .web_txt .tit2 {
+        color: #d4e23f;
+        padding-bottom: 20px;
+        padding-top: 50px;
+    }
+    #web2 .container .web_txt .tit {
+        color: #fdd600;
+        padding-bottom: 20px;
+        padding-top: 50px;
     }
 }
